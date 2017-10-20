@@ -5,12 +5,20 @@
 
 ![TIPOGRAFIAS_E_ICONOS](assets/docs/menu.png "menu")
 
-###### Donde usamos dos estilos de web fonts.
+El siguiente diseño de menú esta elaborado en una página html y 2 hojas de estilos.
+
+##  Estructura
+* index.html ( Página principal que aloja al menú)
+* main.css(Hoja de estilos CSS )
+* style.css (Hoja de estilos de los iconos a utilizar)
+
+## Especificaciones de Diseño
+Para el diseño del siguiente menú se utilizo 5 contenedores (div) alineados uno a continuación del otro mediante el uso de float :left.
+Los efectos de hover y transform son aplicados a los contenedores para que el usuario tenga una mejor experiencia.
+
+
+
+
 
 ##### ELABORADO POR:
-##### Woman@Desing
-
-###### * Melyna Pernia
-###### * Carla Centeno
-###### * Ana Diaz
-###### * Tahirit Jaliri
+##### Woman@tDesing
